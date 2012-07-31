@@ -1,0 +1,14 @@
+Krill project
+
+This project has been created as an educational exploration in to Symfony 2.
+
+The project is accompanied by several configuration files including Apache2, 
+PHP 5.3 and Netbeans. The Netbeans configuration is limited to the project files
+and the editor configuration, so that if one wishes to fork this project, the 
+the process of configuring Netbeans to suit the coding styles in this project 
+should be easier.
+
+Most of the software and libraries used were the defaults available to Ubuntu 
+11.10 at the time of writing.
+
+This project assumes the root directory is /var/web-projects/krill/
